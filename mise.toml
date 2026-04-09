@@ -1,0 +1,7 @@
+[tools]
+ansible = { version = "latest", pipx_args = "--include-deps", uvx = "false" }
+aws-cli = { version = "latest", symlink_bins = "true" }
+pipx = "latest"
+python = "latest"
+terraform = "latest"
+uv = "latest"
